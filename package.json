@@ -46,7 +46,7 @@
     "can-simple-observable": "^2.0.3",
     "can-stache-ast": "^1.0.0",
     "can-stache-helpers": "^1.0.0",
-    "can-stache-key": "^1.0.0",
+    "can-stache-key": "^1.0.2",
     "can-symbol": "^1.0.0",
     "can-util": "^3.10.6",
     "can-view-callbacks": "^4.0.0",
