@@ -34,7 +34,7 @@
     "donejs"
   ],
   "dependencies": {
-    "can-compute": "3.0.0",
+    "can-compute": "3.0.4",
     "can-namespace": "1.0.0",
     "can-observation": "3.0.1",
     "can-route": "3.0.5",
