@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.30"></a>
+## [3.0.30](https://github.com/canjs/can-stache/compare/v3.0.29...v3.0.30) (2018-04-27)
+
+
+### Bug Fixes
+
+* bump ([278547e](https://github.com/canjs/can-stache/commit/278547e))
+
+
+
 <a name="3.0.29"></a>
 ## [3.0.29](https://github.com/canjs/can-stache/compare/v3.0.28...v3.0.29) (2018-04-27)
 
